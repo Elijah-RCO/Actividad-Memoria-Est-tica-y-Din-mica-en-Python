@@ -1,0 +1,1 @@
+# Actividad-Memoria-Est-tica-y-Din-mica-en-Python
